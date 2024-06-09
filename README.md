@@ -1,6 +1,6 @@
 Topic : Scoped Storage
 
-I have performed card option inside text file in storage and second shade media file throw I have captured image from camera and stored in garry and loaded from there and displayed inside my app.
+I have performed curd option inside text file in Scoped storage and 2nd using share media file throw I have captured image from camera and stored in storage and loaded from there and displayed inside my app.
 
 Text File 
 
